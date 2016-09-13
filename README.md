@@ -25,7 +25,7 @@ This is my honest comparison. If I'm leaving out any features out, make a PR!
 | Allows for more than append/prepend mutations | Yes    | Yes    | No    |
 | Works with all frontends                      | Yes    | Yes    | No    |
 | Aggregates queries from child routes          | No     | No     | Yes   |
-| Supports Subsriptions                         | Yes    | Yes    | No    |
+| Supports Subscriptions                         | Yes    | Yes    | No    |
 | Supports local transforms like sort, filter   | Yes    | No     | No    |
 | Caches denormalized result for fast renders   | Yes    | No     | ?     |
 | Supports Query Batching                       | No     | Yes    | Yes   |
